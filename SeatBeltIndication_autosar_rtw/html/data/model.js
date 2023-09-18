@@ -1,0 +1,1 @@
+var modelInfo = {model:"SeatBeltIndication"};var modelHierarchy=[{model:"SeatBeltIndication",relativePath:"_internal.html",parent:"null"},];

@@ -1,0 +1,17 @@
+.SeatBeltIndication0,
+.SeatBeltIndication1,
+.SeatBeltIndication2,
+.SeatBeltIndication3,
+.SeatBeltIndication4,
+.SeatBeltIndication5,
+.SeatBeltIndication6,
+.SeatBeltIndication7 { background-image: url('SeatBeltIndication_icons.png'); width: 16px; height: 16px; }
+
+.SeatBeltIndication0 { background-position: -0px; }
+.SeatBeltIndication1 { background-position: -16px; }
+.SeatBeltIndication2 { background-position: -32px; }
+.SeatBeltIndication3 { background-position: -48px; }
+.SeatBeltIndication4 { background-position: -64px; }
+.SeatBeltIndication5 { background-position: -80px; }
+.SeatBeltIndication6 { background-position: -96px; }
+.SeatBeltIndication7 { background-position: -112px; }
